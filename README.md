@@ -16,9 +16,13 @@
 학교 교통 한눈에 보는 통합 앱 
 → https://github.com/Recircle2000/Hotong_Flutter
 
-**AutoLookbook App**  
+**오룩**  
 AI기반 디지털 옷장 앱
 → https://github.com/Recircle2000/Autolookbook_Flutter
+
+**오늘 뭐입지**  
+기온별 옷차림 추천 앱
+→ https://github.com/Recircle2000/wear_today_Flutter
 
 ### ⚙️Backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -30,7 +34,7 @@ AI기반 디지털 옷장 앱
 ### 🤖AI / Vision (Learning)
 ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-**AutoLookbook AI**  
+**오룩 AI**  
 AI기반 디지털 옷장 앱
 → https://github.com/Recircle2000/autolookbook_AI
 
