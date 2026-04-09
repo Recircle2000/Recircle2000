@@ -12,7 +12,7 @@
 ### 📱Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-**Hotong App**  
+**호통**  
 학교 교통 한눈에 보는 통합 앱 
 → https://github.com/Recircle2000/Hotong_Flutter
 
@@ -27,15 +27,15 @@ AI기반 디지털 옷장 앱
 ### ⚙️Backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-**Hotong Backend**  
+**호통**  
 학교 교통 한눈에 보는 통합 앱 
 → https://github.com/Recircle2000/Hotong_Fastapi
 
 ### 🤖AI / Vision (Learning)
 ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-**오룩 AI**  
-AI기반 디지털 옷장 앱
+**오룩**  
+AI로 간편하게 관리하는 디지털 옷장 및 코디추천 앱
 → https://github.com/Recircle2000/autolookbook_AI
 
 ### Tools
