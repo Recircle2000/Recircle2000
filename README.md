@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=a8feff&height=180&text=Jaewon's%20Github&animation=fadeIn&fontColor=4c4848&fontSize=70)
 
-📱 반갑습니다! 크로스플랫폼 앱 개발자 입니다. 
+📱 반갑습니다! 원하는 것을 설계하고 개발하며, 현재 대학 통학 정보 앱을 운영중인 소프트웨어 엔지니어 입니다. 
 
 🧑‍💻 Contact me
 
